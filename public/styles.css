@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background: darkslategray;
+  padding: 30px;
+  font-family: sans-serif;
+}
+
+img {
+  width: 100%;
+}
